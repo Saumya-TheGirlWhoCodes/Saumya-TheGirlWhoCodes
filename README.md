@@ -1,4 +1,5 @@
 ### Hello World! This is Saumya... 👋
+<img src="https://i.pinimg.com/originals/0c/96/50/0c9650a5d8ddb07b5a494f74cc2eaa43.gif" width="400"></h1>
 
 <!--
 **Saumya-TheGirlWhoCodes/Saumya-TheGirlWhoCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
