@@ -59,5 +59,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **srivastavasaumya123@gmail.com**
 
-- ⚡ Fun fact **Coding is good for our mental health** 😂<br/><br/>
+- ⚡ Fun fact: **Coding is good for our mental health** 😂<br/><br/>
 <img align="left" alt="Saumya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Saumya-TheGirlWhoCodes&show_icons=true&hide_border=ture&count_private=true&theme=light&hide=stars,prs,issues,contribs" />
