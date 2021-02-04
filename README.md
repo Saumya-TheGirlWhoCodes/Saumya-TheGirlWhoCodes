@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-- 🔭 I’m an innovation and deadline-driven **Software Developer**.<img align="right" alt="Saumya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Saumya-TheGirlWhoCodes&show_icons=true&hide_border=ture&count_private=true&theme=light&hide=stars,prs,issues,contribs" />
+
+
+- 🔭 I’m an innovation and deadline-driven **Software Developer**. 
 
 - 🌱 I’m currently learning **Competitive Coding**.
 
@@ -57,4 +59,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **Coding is good for our mental health** 😂
 
-
+<img align="left" alt="Saumya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Saumya-TheGirlWhoCodes&show_icons=true&hide_border=ture&count_private=true&theme=light&hide=stars,prs,issues,contribs" />
