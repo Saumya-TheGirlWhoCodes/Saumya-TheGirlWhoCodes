@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Competitive Coding**.
 
-- 📝 I regularly try to **solve programming** questions on either Leetcode, GeeksforGeeks or HackerRank. 
+- 📝 I regularly try to **solve programming** questions efficiently on either Leetcode, GeeksforGeeks or HackerRank. 
 
-- 💬 I am working on becoming a better programmer each and every day.
+- 💬 I am working on becoming a better programmer each day.
 
 - 📫 How to reach me: **srivastavasaumya123@gmail.com**
 
