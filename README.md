@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! This is Saumya... 👋</h1>
-<h3 align="center">I do coding for fun!</h3>  
+<h3 align="center">I do coding for fun!</h3><br/>
 
 
 <h4>I code in the following languages-</h4> <img align="right" src="https://i.pinimg.com/originals/0c/96/50/0c9650a5d8ddb07b5a494f74cc2eaa43.gif" width="400"></h1>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img align="left" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
 <img align="left" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
 <img align="left" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">  
+<img align="left" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"><br/> 
 
 <br/>
 <br/>
