@@ -9,11 +9,11 @@
 
 *I know that I will be stronger tomorrow, 
 <br/>
-If I practice today,
+If I practice today.
 <br/>
 I know that I will be stronger after a month,
 <br/>
-If I practice today,
+If I practice today.
 <br/>
 I know that I will be stronger a year later,
 <br/>
