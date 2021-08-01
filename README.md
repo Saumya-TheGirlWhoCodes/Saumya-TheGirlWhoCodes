@@ -3,7 +3,7 @@
 
 
 <!-- <h4>I code in the following languages-</h4> <img align="right" src="https://i.pinimg.com/originals/0c/96/50/0c9650a5d8ddb07b5a494f74cc2eaa43.gif" width="400"></h1> -->
-<h4>My motivation-</h4> <img align="right" src="https://i.pinimg.com/originals/0c/96/50/0c9650a5d8ddb07b5a494f74cc2eaa43.gif" width="400"></h1>
+<h2>My motivation-</h2> <img align="right" src="https://i.pinimg.com/originals/0c/96/50/0c9650a5d8ddb07b5a494f74cc2eaa43.gif" width="400"></h1>
 <br/><br/>
 
 
