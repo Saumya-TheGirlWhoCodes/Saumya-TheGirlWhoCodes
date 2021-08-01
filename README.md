@@ -2,9 +2,27 @@
 <h3 align="center">I do coding for fun!</h3><br/>
 
 
-<h4>I code in the following languages-</h4> <img align="right" src="https://i.pinimg.com/originals/0c/96/50/0c9650a5d8ddb07b5a494f74cc2eaa43.gif" width="400"></h1>
+<!-- <h4>I code in the following languages-</h4> <img align="right" src="https://i.pinimg.com/originals/0c/96/50/0c9650a5d8ddb07b5a494f74cc2eaa43.gif" width="400"></h1> -->
+<h4>My motivation-</h4> <img align="right" src="https://i.pinimg.com/originals/0c/96/50/0c9650a5d8ddb07b5a494f74cc2eaa43.gif" width="400"></h1>
+<br/><br/>
 
-| Language  | Proficiency | Applied in Projects  |
+
+*I know that I will be stronger tomorrow, 
+<br/>
+If I practice today,
+<br/>
+I know that I will be stronger after a month,
+<br/>
+If I practice today,
+<br/>
+I know that I will be stronger a year later,
+<br/>
+If I practice today.*
+<br/>
+<br/>
+<br/>
+
+<!-- | Language  | Proficiency | Applied in Projects  |
 | :---: | :---: | :---: |
 | Java  | Intermediate  | Yes  |
 | SQL  | Intermediate  | Yes  |
@@ -13,7 +31,7 @@
 | C  | Intermediate  | Yes  |
 | C++  | Beginner  | No  |
 | PHP  | Beginner  | No  |
-| C#  | Beginner  | No  |  
+| C#  | Beginner  | No  |   -->
 <br/>
 <br/>
 
