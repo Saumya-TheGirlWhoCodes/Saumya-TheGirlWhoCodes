@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 -->
 
 <br/>
+<br/>
 <h2>About me-</h2>
 
 <h2 align=center> I :heart: GitHub :octocat: </h2>
@@ -63,7 +64,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: **The first computer “bug” was an actual real-life bug**. 😂<br/><br/>
 
-<br/>
 <img align="left" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img align="left" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 <img align="left" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
