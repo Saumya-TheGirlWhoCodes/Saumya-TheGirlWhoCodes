@@ -29,7 +29,7 @@ If I practice today."*
 | C++  | Beginner  | No  |
 | PHP  | Beginner  | No  |
 | C#  | Beginner  | No  |   -->
-
+<br/>
 <h2>About me-</h2>
 
 <h3 align=center> I :heart: GitHub :octocat: </h3>
@@ -44,7 +44,7 @@ If I practice today."*
 
 - 📫 How to reach me: **srivastavasaumya123@gmail.com**
 
-- ⚡ Fun fact: **The first computer “bug” was an actual real-life bug**. 😂<br/><br/>
+- ⚡ Fun fact: **The first computer “bug” was an actual real-life bug**.<br/><br/>
 
 <img align="left" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img align="left" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
