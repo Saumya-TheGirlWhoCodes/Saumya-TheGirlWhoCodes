@@ -1,7 +1,6 @@
 <h1 align="center">Hello World! This is Saumya... 😊👋</h1>
 <h3 align="center">I do coding for fun!</h3>
 
-
 <h2>My motivation-</h2> <img  height=250 align="right" src="https://i.pinimg.com/originals/0c/96/50/0c9650a5d8ddb07b5a494f74cc2eaa43.gif" width="400"></h1>
 <br/><br/>
 
