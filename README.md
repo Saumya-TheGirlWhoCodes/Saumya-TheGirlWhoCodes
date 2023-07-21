@@ -40,7 +40,7 @@ If I practice today."*
 
 - 🔭 I’m an innovation and deadline-driven **Software Developer** who loves learning new things and exploring in the field of technology. 
 
-- 🌱 I’m currently working as a Technical Intern at **Rakuten**.
+- 🌱 I’m currently working as a Member of Technical Staff 2 at **VMware**.
 
 - 📝 I regularly try to **solve programming** questions efficiently on either Leetcode, GeeksforGeeks or PepCoding. 
 
